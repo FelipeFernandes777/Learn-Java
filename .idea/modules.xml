@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstudosJava.iml" filepath="$PROJECT_DIR$/EstudosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/ScreenMatch.iml" filepath="$PROJECT_DIR$/screenmatch/ScreenMatch.iml" />
+    </modules>
+  </component>
+</project>
